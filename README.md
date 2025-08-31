@@ -6,10 +6,10 @@ This is just the basics to get you started. From this point you can add Cloners,
 You can learn more about this Tech-Multiverse project at the following resources.   
 
 **Article Link:**     
-[How to Create Audio-Reactive Motion Graphics in Unreal Engine](LINK_HERE)
+[How to Create Audio-Reactive Motion Graphics in Unreal Engine](https://tech-multiverse.com/projects/how-to-create-audio-reactive-motion-graphics-in-unreal-engine/)
 
 **YouTube Video:**    
-[DMX in UE5 Motion Design | Audio-Reactive Motion Graphics](LINK_HERE)
+[DMX in UE5 Motion Design | Audio-Reactive Motion Graphics](https://youtu.be/yuYtJGVCsVo)
 
 
 ## Unreal Engine Project
