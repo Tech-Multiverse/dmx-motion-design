@@ -15,6 +15,8 @@ You can learn more about this Tech-Multiverse project at the following resources
 ## Unreal Engine Project
 The UE 5.6.0 project files are in the "UE" folder.  
 
+[IMPORTANT: Be sure to check out this note about a setting you will need to fix to see this work.](https://youtu.be/yuYtJGVCsVo?t=1627&si=9mgWAs9xwrwnkTG-)
+
 This contains a simple scene with a single Cloner and Effector. The Effector is set up to listen for DMX data coming from localhost.
 
 ## TouchDesigner Project
